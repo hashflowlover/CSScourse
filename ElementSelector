@@ -14,5 +14,17 @@ p {
 <p id="para1">Me too!</p>
 <p>And me!</p>
 
+p {
+  text-align: left;
+  color: green;
+} 
+</style>
+</head>
+<body>
+
+<p>Every paragraph will be affected by the style.</p>
+<p id="para1">Me too!</p>
+<p>And me!</p>
+
 </body>
 </html>
