@@ -6,6 +6,10 @@
   text-align: center;
   color: red;
 }
+#para2 {
+  text-align: right;
+  color: yellow;
+}
 </style>
 </head>
 <body>
@@ -15,5 +19,3 @@
 
 </body>
 </html>
-
-
